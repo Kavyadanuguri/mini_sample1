@@ -1,0 +1,23 @@
+.header-container1 {
+  width: 100vw;
+  height: 10vh;
+  padding-top: 16px;
+  padding-left: 48px;
+  padding-right: 48px;
+  display: flex;
+  justify-content: space-between;
+  background-color: #fafbfe;
+}
+.header-image1 {
+  width: 100px;
+  height: 40px;
+}
+.header-button1 {
+  width: 100px;
+  height: 35px;
+  padding: 2px;
+  gap: 8px;
+  border-radius: 8px;
+
+  border: 2px solid #afafaf;
+}
